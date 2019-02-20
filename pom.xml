@@ -28,14 +28,6 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-         
-  <distributionManagement>
-    <repository>
-      <id>deployment</id>
-      <name>Internal releases</name>
-      <url>http://52.207.221.46:8081/repository/jenkins/</url>
-    </repository>
-  </distributionManagement>
 
   <build>
     <plugins>
