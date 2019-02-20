@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to DevOps Technology  !!! </h1>
-<h2> Bye Bye....!!! </h2>
+<h1> Hello all, Welcome to DevOps Technology  !!! </h1>
+<h2> Good morning to all....!!! </h2>
